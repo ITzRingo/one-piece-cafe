@@ -1,0 +1,57 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(0, 255, 255); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.Luffy{
+    background-color: rgb(255, 110, 13);
+    height: 130px;
+    width: 100%;
+
+}
+
+.l{
+    background-color: blue;
+    height:  100px;
+    width: 38%;
+    float: left;
+}
+
+.m{
+    background-color: rgb(10, 221, 28);
+    height: 75px;
+    width: 26%;
+    float: left;
+    margin-left: 37%;
+    margin-top: 10%;
+}
+
+
+ .sml{
+background-color: rgb(0, 255, 255);
+height: 140px;
+width: 100%;
+float: left;
+}
+
+.A{
+background-color: rgb(248, 232, 0);
+height: 600px;
+width: 28%;
+float: left;
+margin: 15%;
+margin-top: 10%;
+}
+
+
+.B{
+    background-color: rgb(248, 232, 0);
+    height: 600px;
+    width: 28%;
+    float: right;
+    margin-right: 15%;
+    margin-top: -64.5%;
+    }
